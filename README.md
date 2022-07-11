@@ -55,6 +55,8 @@ The 'Summary' file contains the following: <br/>
    2) Single plot of Memory usage vs problem size for the two solutions. 
 
 <br/>
-   
+<br/>
+To run the python files, give the file name followed by the input and output file names. <br/>
+For eg. python3 basic_3.py "input1.txt" "output1.txt" <br/>
 
 
