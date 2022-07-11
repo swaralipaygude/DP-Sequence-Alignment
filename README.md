@@ -1,9 +1,10 @@
 # DP-Sequence-Alignment
 Implementation of two versions of Dynamic Programming solution(basic and efficient) to the Sequence Alignment problem.
 
+
 <h3> INPUT </h3>
 
-The sample inputs are given named input1.txt, input2.txt, etc. 
+The sample inputs are given in the SampleTestCases folder, named input1.txt, input2.txt, etc. 
 
 The input to the program is a text file containing the following information: <br/>
 1. First base string (𝑠<sub>1</sub>) <br/>
@@ -27,9 +28,10 @@ Using the above numbers, the generated strings would be <br/>
 
 Hence, the length of the first and the second string will be 2<sup>𝑗</sup> * 𝑙𝑒𝑛(𝑠<sub>1</sub>) and 2<sup>k</sup> * 𝑙𝑒𝑛(𝑠<sub>2</sub>) 
 
+
 <h3> OUTPUT </h3>
 
-The sample outputs are given named output1.txt, output2.txt, etc. 
+The sample outputs are given in the SampleTestCases folder, named output1.txt, output2.txt, etc. 
 
 The output to the program is a text file containing the following information: <br/>
 1. Cost of the alignment (Integer) <br/>
