@@ -1,5 +1,5 @@
 # DP-Sequence-Alignment
-Implementation of two versions of Dynamic Programming solution(basic and efficient) to the Sequence Alignment problem.
+Implementation of two versions of Dynamic Programming solution(basic and memory efficient) to the Sequence Alignment problem.
 
 
 <h3> INPUT </h3>
@@ -40,5 +40,16 @@ The output to the program is a text file containing the following information: <
 4. Time in Milliseconds (Float) <br/>
 5. Memory in Kilobytes (Float) <br/>
 
+
+<h3> OTHER DATA </h3>
+
+The folder 'datapoints' contains input files to generate graph data points, for graphs which are in the 'Summary' file. <br/>
+The 'Summary' file contains the following: <br/>
+1. Datapoints output table (which is generated from provided input files) <br/>
+2. Two graphs along with insights: <br/>
+   1) Single plot of CPU time vs problem size for the two solutions. <br/>
+   2) Single plot of Memory usage vs problem size for the two solutions. 
+   
+   
 
 
