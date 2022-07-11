@@ -1,6 +1,8 @@
-# DP-Sequence-Alignment
-Implementation of two versions of Dynamic Programming solution(basic and memory efficient) to the Sequence Alignment problem.
+# DP Sequence Alignment
 
+Implementation of two versions of Dynamic Programming solution(basic and memory efficient) to the Sequence Alignment problem.
+<br/>
+<br/>
 
 <h3> INPUT </h3>
 
