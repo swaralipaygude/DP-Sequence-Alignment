@@ -29,7 +29,7 @@ Using the above numbers, the generated strings would be <br/>
 𝑠<sub>2</sub> : TATTATACGCTATTATACGCGACGCGGACGCG <br/>
 
 Hence, the length of the first and the second string will be 2<sup>𝑗</sup> * 𝑙𝑒𝑛(𝑠<sub>1</sub>) and 2<sup>k</sup> * 𝑙𝑒𝑛(𝑠<sub>2</sub>) 
-
+<br/>
 
 <h3> OUTPUT </h3>
 
@@ -42,6 +42,7 @@ The output to the program is a text file containing the following information: <
 4. Time in Milliseconds (Float) <br/>
 5. Memory in Kilobytes (Float) <br/>
 
+<br/>
 
 <h3> OTHER DATA </h3>
 
@@ -51,7 +52,8 @@ The 'Summary' file contains the following: <br/>
 2. Two graphs along with insights: <br/>
    1) Single plot of CPU time vs problem size for the two solutions. <br/>
    2) Single plot of Memory usage vs problem size for the two solutions. 
-   
+
+<br/>
    
 
 
