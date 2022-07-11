@@ -29,6 +29,7 @@ Using the above numbers, the generated strings would be <br/>
 𝑠<sub>2</sub> : TATTATACGCTATTATACGCGACGCGGACGCG <br/>
 
 Hence, the length of the first and the second string will be 2<sup>𝑗</sup> * 𝑙𝑒𝑛(𝑠<sub>1</sub>) and 2<sup>k</sup> * 𝑙𝑒𝑛(𝑠<sub>2</sub>) 
+
 <br/>
 
 <h3> OUTPUT </h3>
